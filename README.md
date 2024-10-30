@@ -18,3 +18,13 @@ The script follows these main steps:
 3. Attaches your resume.
 4. Auto-fills basic information, custom questions, and demographic questions.
 5. Waits for manual review before final submission.
+
+
+## How It Works
+
+1. **Automated Job Application**: The script opens a job posting URL, simulates clicking the "Apply" button, and begins the application.
+2. **Resume Upload and Form Filling**: It attaches a resume, fills out personal information fields (like name, email, and LinkedIn profile), and answers required questions.
+3. **Custom Question Handling**: The script can answer custom questions based on saved responses or keywords found in questions.
+4. **Equal Employment and Demographic Questions**: It completes equal employment questions and demographic surveys if present, selecting from options like dropdowns or checkboxes.
+5. **Manual Review**: Before final submission, the script pauses, allowing users to review answers and submit manually if desired.
+
